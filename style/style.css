@@ -51,3 +51,11 @@
 .table tr:nth-child(even) {
     background-color:rgb(210, 228, 232);
 }
+
+.copy{
+    color: white;
+    text-align: center;
+    background-color: rgb(2, 27, 54);
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
