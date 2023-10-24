@@ -30,3 +30,24 @@
     font-size: 15px;
     padding-left: 15px;
 }
+
+
+.table {
+    border-collapse: collapse;
+    width: 95%;
+}
+
+.table th, .table td {
+    text-align: left;
+    border: 2px solid #ddd;
+    padding: 10px;
+}
+
+.table th {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.table tr:nth-child(even) {
+    background-color:rgb(210, 228, 232);
+}
